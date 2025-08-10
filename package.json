@@ -31,7 +31,7 @@
     "nextjs",
     "standalone"
   ],
-  "author": "Whaple Team <support@whaple.com>",
+  "author": "Whaple Team <thiotsoela@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "@whiskeysockets/baileys": "^6.7.18",
@@ -53,11 +53,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/whaple/whaple.git"
+    "url": "https://github.com/thiomark/whaple.git"
   },
-  "homepage": "https://whaple.com",
+  "homepage": "https://whaple.vercel.app",
   "bugs": {
-    "url": "https://github.com/whaple/whaple/issues"
+    "url": "https://github.com/thiomark/whaple/issues"
   },
   "files": [
     "dist/",
